@@ -1,0 +1,9 @@
+pandas
+numpy
+scipy
+scikit-learn
+lightgbm
+xgboost
+catboost==1.2.10
+optuna==4.8.0
+jupyter
